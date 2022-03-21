@@ -1,3 +1,2 @@
-blackHorsePartI/.vs
-blackHorsePartI/Debug
-blackHorsePartI/blackHorsePartI/Debug
+*.exe
+*.o
